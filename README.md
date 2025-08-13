@@ -117,7 +117,7 @@
   <h2>Shiny Apps</h2>
   <ul>
     <li><strong>NFL Momentum Tracker:</strong> <a href="https://yourname.shinyapps.io/nfl-momentum/" target="_blank">View App</a></li>
-    <li><strong>Stock Analysis Dashboard:</strong> <a href="https://yourname.shinyapps.io/stock-analyzer/" target="_blank">View App</a></li>
+    <li><strong>Stock Analysis Dashboard:</strong> <a href="https://leonfriebel.shinyapps.io/StockTrack/" target="_blank">View App</a></li>
   </ul>
 </section>
 
