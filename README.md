@@ -110,7 +110,6 @@
   <ul>
     <li><strong>NFL Momentum Analysis (1999–present):</strong> R-based project using live play data</li>
     <li><strong>Stock Return Models:</strong> Visualizing CAPM and Fama-French results using Shiny</li>
-    <li><strong>Feminist Economics Paper:</strong> Investigating gender disparities in India’s labor market</li>
   </ul>
 </section>
 
